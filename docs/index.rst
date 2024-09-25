@@ -1,8 +1,12 @@
-ashg\ashkfg\as
+.. py-apx documentation master file
 
+APX for Python
+==============
 
-sfja\hskhasjkf
-k\jsfkjshfj\ahsj\hajsk
-sjhf\jkshfkjxf
-d\hf\jkxhfjk
-
+.. toctree::
+   :maxdepth: 2
+      
+   node
+   generator
+   client
+   reference
